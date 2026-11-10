@@ -48,16 +48,33 @@ I enjoy turning complex problems into simple, elegant digital experiences. I'm a
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AARON-WISDOM001&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AARON-WISDOM001&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AARON-WISDOM001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="49%" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARON-WISDOM001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" width="49%" alt="Top Languages"/>
+</p>
 
+## ⭐ Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AARON-WISDOM001&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00D9A6&sideLabels=00BFFF&dates=FFFFFF" width="90%" alt="GitHub Contribution Streak"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AARON-WISDOM001">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aaron-wisdom/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:aaronwisdom43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 ---
 
-### 🤝 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-AARON--WISDOM001-black?style=for-the-badge&logo=github)](https://github.com/AARON-WISDOM001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Wisdom-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaron-wisdom/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:aaronwisdom43@gmail.com)
 
 **Thanks for visiting my profile! ⭐**
