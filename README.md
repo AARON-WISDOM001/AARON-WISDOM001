@@ -46,7 +46,6 @@ I enjoy turning complex problems into simple, elegant digital experiences. I'm a
 - **Audiophile** – Responsive e-commerce interface built with Next.js and Tailwind CSS.
 - **ClipWizard** – React-based web application.
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
